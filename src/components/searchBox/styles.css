@@ -1,0 +1,7 @@
+.search-icon {
+    margin: 10px 10px 0px 0px;
+    padding-right: 10px;
+    text-align: end;
+    position: absolute;
+    z-index: 2;
+}

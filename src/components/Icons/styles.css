@@ -1,0 +1,10 @@
+.row .col-3 {
+    margin: auto;
+    text-align: center;
+    color: #fcda76;
+}
+
+.row div p {
+    color: #2e2e2e;
+    font-weight: 600;
+}
